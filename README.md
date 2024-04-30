@@ -38,7 +38,7 @@ V100 GPU
 - Or you can check training notebook by GU Account on : [google colab](https://colab.research.google.com/drive/1Jk11AZO-pmQRfcGF3t-D3aLqSV9KZVq9#scrollTo=cn88CEIiHWE3)
 
 ## 3. Dataset
-https://github.com/Abel3369/CV_project/releases/tag/dataset2.0
+[https://github.com/Abel3369/CV_project/releases/tag/dataset2.0](https://github.com/Abel3369/pytorch-animeGAN/releases/tag/v2.0)
 - The file "real-world" contains 6,656 real-world photos, which are 256 x 256 JPEG images used as inputs for the model.
 - The file "anime_images" contains 2000 smoothed anime-style images , which are 256 x 256 JPEG images used as inputs for the model.
 - In the existing dataset, we captured images from Makoto Shinkai's latest anime movies ("The Garden of Words") and a previous film ("5 Centimeters Per Second") using an FFMPEG script and selected some that are brightly lit. After smoothing these images, we then used them as inputs.
