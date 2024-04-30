@@ -22,7 +22,7 @@ https://github.com/Abel3369/CV_project/releases/tag/dataset1.0
 ## 4. Results
 | Input | Shinkai style |
 |--|--|
-|![c1](./example/input/1.jpg)|![g1](./example/output/1.jpg)|
+|![](./example/input/1.jpg)|![](./example/output/1.jpg)|
 |![c1](./example/input/2.jpg)|![g1](./example/output/1.jpg)|
 |![c1](./example/input/3.jpg)|![g1](./example/output/1.jpg)|
 |![c1](./example/input/4.jpg)|![g1](./example/output/1.jpg)|
