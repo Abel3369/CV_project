@@ -35,7 +35,7 @@ V100 GPU
                   #--resume_D '/content/drive/MyDrive/animeGAN/discriminator_train_photo_Shinkai.pt'\
 ```
 Our training details and results are in the CV_project/animeGAN.ipynb file.
-Training notebook on [google colab](https://colab.research.google.com/drive/1Jk11AZO-pmQRfcGF3t-D3aLqSV9KZVq9#scrollTo=cn88CEIiHWE3)
+- Training notebook on : [google colab](https://colab.research.google.com/drive/1Jk11AZO-pmQRfcGF3t-D3aLqSV9KZVq9#scrollTo=cn88CEIiHWE3)
 
 ## 3. Dataset
 https://github.com/Abel3369/CV_project/releases/tag/dataset2.0
