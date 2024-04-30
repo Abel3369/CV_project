@@ -54,7 +54,6 @@ V100 GPU
 |![](./examples/input/5.jpg)|![](./examples/output/5.jpg)|
 
 ## 5. Refernce:
-- reference:
 - https://github.com/TachibanaYoshino/AnimeGAN
 - https://github.com/ptran1203/pytorch-animeGAN
 - https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf
