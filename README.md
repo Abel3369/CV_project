@@ -20,7 +20,13 @@ https://github.com/Abel3369/CV_project/releases/tag/dataset1.0
 - In the existing dataset, we captured images from Makoto Shinkai's latest anime movies ("The Garden of Words") and a previous film ("5 Centimeters Per Second") using an FFMPEG script and selected some that are brightly lit. After smoothing these images, we then used them as inputs.
 
 ## 4. Results
-
+| Input | Shinkai style |
+|--|--|
+|![c1](./example/input/1.jpg)|![g1](./example/output/1.jpg)|
+|![c1](./example/input/2.jpg)|![g1](./example/output/1.jpg)|
+|![c1](./example/input/3.jpg)|![g1](./example/output/1.jpg)|
+|![c1](./example/input/4.jpg)|![g1](./example/output/1.jpg)|
+|![c1](./example/input/5.jpg)|![g1](./example/output/1.jpg)|
 
 ## 5. refernce:
 - reference:
