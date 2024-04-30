@@ -8,7 +8,7 @@ Project for the course of Comp. Vision in Georgetown University
 - We put our model trained by ourselves in 'release', named 'AnimeGAN'(including generator and discriminator)
 
 
-## 2.Environmental setup of Colab
+## 2.Training details of Colab
 ```xml
 Python 3 Google Compute Engine backend
 V100 GPU
