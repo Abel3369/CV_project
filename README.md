@@ -30,4 +30,7 @@ https://github.com/Abel3369/CV_project/releases/tag/dataset1.0
 
 ## 5. refernce:
 - reference:
-- https://github.com/Abel3369/pytorch-animeGAN
+- https://github.com/TachibanaYoshino/AnimeGAN
+- https://github.com/ptran1203/pytorch-animeGAN
+- https://github.com/TachibanaYoshino/AnimeGAN/blob/master/doc/Chen2020_Chapter_AnimeGAN.pdf
+- https://github.com/Abel3369/pytorch-animeGAN (This is the repository we actually utilize, which includes the model code, functions required for AnimeGAN in Colab, and the dataset that has been modified.)
